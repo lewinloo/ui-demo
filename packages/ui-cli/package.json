@@ -1,6 +1,6 @@
 {
   "name": "@lewinloo/ui-cli",
-  "version": "0.0.0",
+  "version": "0.0.2-beta.0",
   "type": "module",
   "main": "dest/index.js",
   "typings": "dest/index.d.ts",
