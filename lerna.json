@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "useNx": true,
+  "useWorkspaces": true,
+  "npmClient": "yarn",
+  "ignoreChanges": [
+    "packages/vantui-demo/**",
+    "**/*.md",
+    "**/__test__/**"
+  ],
+  "version": "0.0.0"
+}
