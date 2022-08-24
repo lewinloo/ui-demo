@@ -1,6 +1,6 @@
 {
   "name": "@lewinloo/uis",
-  "version": "0.0.2-beta.0",
+  "version": "0.0.3-beta.0",
   "description": "> TODO: description",
   "author": "Longwei <lwlu@gizwits.com>",
   "main": "lib/index.js",
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@antmjs/iconfont": "^1.21.2",
-    "@lewinloo/ui-cli": "0.0.2-beta.0",
+    "@lewinloo/ui-cli": "0.0.3-beta.0",
     "@tarojs/components": "^3.5.3",
     "@tarojs/taro": "^3.5.3",
     "@types/lodash.flow": "^3.5.6"

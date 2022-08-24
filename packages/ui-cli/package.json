@@ -1,6 +1,6 @@
 {
   "name": "@lewinloo/ui-cli",
-  "version": "0.0.2-beta.0",
+  "version": "0.0.3-beta.0",
   "type": "module",
   "main": "dest/index.js",
   "typings": "dest/index.d.ts",
@@ -38,6 +38,7 @@
   "devDependencies": {
     "@types/babel__core": "^7.1.16",
     "@types/fs-extra": "^9.0.13",
+    "@types/glob": "^7.2.0",
     "@types/less": "^3.0.3",
     "@types/lodash-es": "^4.17.5",
     "@types/markdown-it": "^12.2.3",
