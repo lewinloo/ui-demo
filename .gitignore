@@ -15,8 +15,8 @@ package-lock.json
 node_modules
 packages/**/coverage
 packages/**/dist
-packages/vantui/lib
-packages/vantui/es
+packages/uis/lib
+packages/uis/es
 
 packages/vantui-doc/lib
 packages/vantui-doc/es
@@ -45,6 +45,6 @@ packages/vantui-demo/src/pages/[!dashboard]
 packages/vantui-demo/src/app.config.js
 packages/vantui-demo/src/config.json
 
-packages/vantui-cli/lib
-packages/vantui-cli/dist
-packages/vantui-cli/dest
+packages/ui-cli/lib
+packages/ui-cli/dist
+packages/ui-cli/dest
